@@ -14,4 +14,4 @@ function arrayDiff(a, b) {
 
 arrayDiff([1, 2, 2, 2, 3], [2]);
 arrayDiff([1, 2], [1]);
-arrayDiff([3, 2], [1, 2, 2, 3, 3]);
+arrayDiff([1, 2, 2, 3, 3], [3, 2]);
